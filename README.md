@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Greedy
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 ## Memoization
 |  |
 | ------- |
