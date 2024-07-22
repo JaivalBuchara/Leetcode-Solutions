@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2502-sort-the-people](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 ## Greedy
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [2502-sort-the-people](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
@@ -38,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2502-sort-the-people) |
+## Sorting
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
