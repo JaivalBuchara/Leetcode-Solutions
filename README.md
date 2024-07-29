@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0948-sort-an-array](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1511-count-number-of-teams](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1511-count-number-of-teams) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2502-sort-the-people) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1511-count-number-of-teams) |
 ## Memoization
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0046-permutations) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
