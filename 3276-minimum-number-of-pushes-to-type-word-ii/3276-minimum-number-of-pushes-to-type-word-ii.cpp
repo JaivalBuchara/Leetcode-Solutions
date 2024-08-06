@@ -1,36 +1,27 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        int n = word.size();
-        if (n <= 8)
-            return n;
-        map<char, int> mp;
-        for (auto i : word) {
-            mp[i]++;
-        }
-        if (mp.size() <= 8) {
-            int ans = 0;
-            for (auto it : mp) {
-                ans += it.second;
+        int i;
+        int freq[26];
+        vector<int> num;
+
+        for(i = 0;i<26;i++) freq[i] = 0;
+        for(i =0;i<word.size();i++) freq[word[i] -'a']++;
+        for(i=0;i<26;i++) {
+            if(freq[i]!=0) {
+                num.push_back(freq[i]);
             }
-            return ans;
         }
-        vector<pair<char,int>> v;
-        for(auto it: mp){
-            v.push_back({it.first,it.second});
-        }
-        sort(v.begin(),v.end(),[](const pair<char,int>& a,const pair<char,int>& b){
-            return a.second>b.second;
-        });
+        sort(num.begin(),num.end(),greater<int>());
         int ans = 0;
         int round = 0;
         int inc = 1;
-        for(auto it: v){
+        for(auto it: num){
             if(round > 7) {
                 round = 0;
                 inc++;
             }
-            ans= ans + (it.second*inc);
+            ans+= (it*inc);
             round++;
         }
         return ans;
