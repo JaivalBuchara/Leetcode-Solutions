@@ -33,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0273-integer-to-english-words](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0273-integer-to-english-words](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 ## Stack
 |  |
 | ------- |
