@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Sliding Window
 |  |
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
