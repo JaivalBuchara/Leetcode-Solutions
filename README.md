@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
+| [2825-minimize-string-length](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2825-minimize-string-length) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2502-sort-the-people) |
+| [2825-minimize-string-length](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2825-minimize-string-length) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
