@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0870-magic-squares-in-grid](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1511-count-number-of-teams) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 ## Merge Sort
