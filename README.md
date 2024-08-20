@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0890-lemonade-change) |
+| [0909-stone-game](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1196-filling-bookcase-shelves) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0650-2-keys-keyboard](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
+| [0909-stone-game](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0909-stone-game) |
 ## String
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0650-2-keys-keyboard) |
+| [0909-stone-game](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0909-stone-game) |
 | [1196-filling-bookcase-shelves](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1511-count-number-of-teams) |
@@ -246,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
