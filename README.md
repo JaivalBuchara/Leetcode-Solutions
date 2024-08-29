@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2035-count-sub-islands](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2035-count-sub-islands](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2035-count-sub-islands) |
 ## Math
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2035-count-sub-islands) |
 ## Sliding Window
 |  |
 | ------- |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [2035-count-sub-islands](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2035-count-sub-islands) |
 ## Strongly Connected Component
 |  |
 | ------- |
