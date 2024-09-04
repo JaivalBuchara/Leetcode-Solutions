@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0948-sort-an-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
