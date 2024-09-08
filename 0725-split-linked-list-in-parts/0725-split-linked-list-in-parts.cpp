@@ -20,7 +20,6 @@ public:
         }
         int extra = size%k; // jitne bache unhe center se add karo 
         int each = size/k; // har node mei kitne aayenge
-        cout<<extra<<endl<<each<<endl;
         if(each == 0){
             temp = head;
             for(int i = 0;i<k;i++){
