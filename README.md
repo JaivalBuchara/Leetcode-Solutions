@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0664-strange-printer) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2502-sort-the-people) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2825-minimize-string-length](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2825-minimize-string-length) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0948-sort-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
