@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0179-largest-number](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0539-minimum-time-difference](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/JaivalBuchara/Leetcode-Solutions/tree/master/0948-sort-an-array) |
